@@ -6,7 +6,7 @@ require (
 	github.com/Azure/go-autorest/autorest/validation v0.2.0 // indirect
 	github.com/golang/protobuf v1.5.2
 	github.com/google/cel-go v0.5.1
-	github.com/google/go-cmp v0.5.7
+	github.com/google/go-cmp v0.5.9
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/mux v1.8.0
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
@@ -18,11 +18,11 @@ require (
 	github.com/tektoncd/pipeline v0.29.0
 	go.uber.org/automaxprocs v1.4.0
 	go.uber.org/zap v1.22.0
-	golang.org/x/oauth2 v0.0.0-20220309155454-6242fa91716a
-	google.golang.org/api v0.74.0
-	google.golang.org/genproto v0.0.0-20220324131243-acbaeb5b85eb
-	google.golang.org/grpc v1.45.0
-	google.golang.org/protobuf v1.28.0
+	golang.org/x/oauth2 v0.0.0-20221014153046-6fdb5e3db783
+	google.golang.org/api v0.102.0
+	google.golang.org/genproto v0.0.0-20221024183307-1bc688fe9f3e
+	google.golang.org/grpc v1.50.1
+	google.golang.org/protobuf v1.28.1
 	gorm.io/driver/mysql v1.3.3
 	gorm.io/driver/postgres v1.3.4
 	gorm.io/driver/sqlite v1.3.6
