@@ -23,10 +23,10 @@ require (
 	google.golang.org/genproto v0.0.0-20220519153652-3a47de7e79bd
 	google.golang.org/grpc v1.46.2
 	google.golang.org/protobuf v1.28.0
-	gorm.io/driver/mysql v1.3.3
+	gorm.io/driver/mysql v1.4.4
 	gorm.io/driver/postgres v1.3.4
 	gorm.io/driver/sqlite v1.3.6
-	gorm.io/gorm v1.23.4
+	gorm.io/gorm v1.23.8
 	k8s.io/api v0.23.9
 	k8s.io/apimachinery v0.23.9
 	k8s.io/client-go v0.23.9
