@@ -244,8 +244,8 @@ github.com/go-openapi/jsonreference
 # github.com/go-openapi/swag v0.19.15
 ## explicit; go 1.11
 github.com/go-openapi/swag
-# github.com/go-sql-driver/mysql v1.6.0
-## explicit; go 1.10
+# github.com/go-sql-driver/mysql v1.7.0
+## explicit; go 1.13
 github.com/go-sql-driver/mysql
 # github.com/gogo/protobuf v1.3.2
 ## explicit; go 1.15
@@ -887,7 +887,7 @@ gopkg.in/yaml.v2
 # gopkg.in/yaml.v3 v3.0.1
 ## explicit
 gopkg.in/yaml.v3
-# gorm.io/driver/mysql v1.3.3
+# gorm.io/driver/mysql v1.4.6
 ## explicit; go 1.14
 gorm.io/driver/mysql
 # gorm.io/driver/postgres v1.3.4
@@ -896,7 +896,7 @@ gorm.io/driver/postgres
 # gorm.io/driver/sqlite v1.3.6
 ## explicit; go 1.14
 gorm.io/driver/sqlite
-# gorm.io/gorm v1.23.4
+# gorm.io/gorm v1.23.8
 ## explicit; go 1.14
 gorm.io/gorm
 gorm.io/gorm/callbacks
